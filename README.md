@@ -1,6 +1,8 @@
 # FilterEmojis
 Android Library to filter emojis from a string.
 
+![](preview.gif)
+
 get the library
 
 Step 1. Add the JitPack repository to your build file
